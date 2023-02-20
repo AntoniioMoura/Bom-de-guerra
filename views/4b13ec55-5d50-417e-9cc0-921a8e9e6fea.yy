@@ -1,0 +1,30 @@
+{
+    "id": "4b13ec55-5d50-417e-9cc0-921a8e9e6fea",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "4b13ec55-5d50-417e-9cc0-921a8e9e6fea",
+    "children": [
+        "72d9b027-c3b7-4659-bc6d-86d475d12fda",
+        "f0322666-729d-43da-a00f-66ea245973ac",
+        "0a5dbca5-dc4c-494a-9b27-4effc1332f2a",
+        "2374cd81-e7b6-4545-ac44-b25654787289",
+        "633773dc-3bd6-449a-a37e-a6cdf5459dad",
+        "1d4e88b9-4cae-43a7-abf8-b710a02a9b65",
+        "d0b50690-1590-4f21-afb5-0bc9146631f9",
+        "ddc8d107-4ecb-4315-ac99-573ff6fc161f",
+        "9167ba8e-7b80-46e8-9b7f-7f17fc3241c5",
+        "402dfa68-5036-47a7-8846-fe115821aab8",
+        "6963d457-f1bb-4a94-8fde-1a435be85120",
+        "ab983b98-223f-458a-b8bb-9dd220a43653",
+        "e3cb5181-4c55-41c9-8114-73979cdcc1d1",
+        "baae5895-7c19-44cd-8df5-dbdb207c40e9",
+        "e9fd3b00-ebe0-480a-8f67-1fe6250090d2",
+        "7e1b8b58-f1b9-4a06-8611-4bab5f4593a4",
+        "cf483d6e-2a7b-4835-be18-5b9f5765426b",
+        "06338641-087c-4317-a915-1e2edf710b06"
+    ],
+    "filterType": "GMSprite",
+    "folderName": "Player",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
